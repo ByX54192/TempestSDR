@@ -8,6 +8,7 @@
 # Contributors:
 #     Martin Marinov - initial API and implementation
 #-------------------------------------------------------------------------------
+CC=gcc
 # JAVA_HOME should be initialized to something like C:\PROGRA~2\Java\jdk1.7.0_45
 ifndef JAVA_HOME
 $(warning JAVA_HOME should be set so it points to your jdk installation dir)
