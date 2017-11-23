@@ -10,6 +10,7 @@
 #-------------------------------------------------------------------------------
 # This makefile should work for all plugins that reside in the root directory of the repository.
 # The header file is copied over from the source
+CC=gcc
 PLUGNAME=TSDRPlugin_Mirics
 
 # Dependencies
